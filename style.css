@@ -1,0 +1,61 @@
+
+.home-ul{
+    text-decoration:  none;
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    padding: none;
+}
+
+.home-a {
+color: black;
+font-size: 20px;
+padding: 0 10px;
+font-family: 'heebo', sans-serif;
+} 
+
+ a {text-decoration: none; }
+
+ #left-section{
+    color: red;
+    padding: 0 90px;
+ }
+
+ #right-section{
+    color: red;
+    padding: 0 90px;
+ }
+
+ .section-one{
+    padding: 0 50px;
+    display: flex;
+ }
+
+
+*{
+    font-family: 'Heebo', sans-serif;
+}
+.profile{
+   height: 250px;
+   width: 250px;
+   border-radius: 125px;
+}
+button{
+   background-color: tomato;
+   border:10px solid tomato;
+}
+
+
+
+
+#sect-one-second-child{
+display: flex;
+justify-content: space-between;
+}
+
+
+ 
+#sect-two-second-child{
+   display: flex; 
+   justify-content: space-between;
+}
